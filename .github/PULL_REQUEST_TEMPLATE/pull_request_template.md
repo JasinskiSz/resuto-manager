@@ -9,13 +9,14 @@
 
 ## Type of change
 <!-- Please try to limit your pull request to one type, submit multiple pull requests if needed. -->
-- [ ] Feature
-- [ ] Bugfix
-- [ ] Code style update (formatting, renaming)
-- [ ] Refactoring (no functional changes, no api changes)
-- [ ] Build related changes
-- [ ] Documentation content changes
-- [ ] Other (please describe):
+<!--- Choose one from the following and delete the rest: -->
+- Feature
+- Bugfix
+- Code style update (formatting, renaming)
+- Refactoring (no functional changes, no api changes)
+- Build related changes
+- Documentation content changes
+- Other (please describe):
 
 ## Description
 <!--- Describe your changes in detail. -->
