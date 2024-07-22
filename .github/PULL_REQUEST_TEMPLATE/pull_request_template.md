@@ -5,7 +5,7 @@
 <!--- Fixes #123 -->
 <!--- Resolves #123 -->
 <!--- See also #123 -->
-<!--- Multiple issues must be linked using bullet points. -->
+<!--- Multiple issues must be linked using bullet points. Can be nested. -->
 
 ## Type of change
 <!-- Please try to limit your pull request to one type, submit multiple pull requests if needed. -->
@@ -19,10 +19,10 @@
 - Other (please describe):
 
 ## Description
-<!--- Describe your changes in detail. -->
+<!--- Describe your changes in detail and list changes made in bullet points -->
 
 Changes made:
-- <!--- List the changes made in bullet points -->
+- 
 
 ## Demo
 <!--- If appropriate, here's the place for screenshots or video(s). Otherwise, remove section. -->
@@ -35,8 +35,8 @@ Changes made:
 <!--- Please put `x` in all the boxes that apply: -->
 - [ ] I have added meaningful titles to this pull request
 - [ ] I have linked the issues that this pull request resolves
-- [ ] I have marked only one checkbox in the "Type of change" section
-- [ ] I have described the changes clearly and in detail
+- [ ] I have chose only one option in "Type of Change" section
+- [ ] I have described the changes clearly and in enough detail
 - [ ] I have listed the changes made in bullet points
 - [ ] I have added the appropriate labels, projects and milestones to this pull request
 - [ ] My code follows the style guidelines of this project
