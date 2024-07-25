@@ -1,10 +1,13 @@
 HELP.md
 target/
+
+# Exclusions
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+!/frontend-vite/resuto-manager/public/
 
-### STS ###
+# STS
 .apt_generated
 .classpath
 .factorypath
@@ -13,13 +16,7 @@ target/
 .springBeans
 .sts4-cache
 
-### IntelliJ IDEA ###
-.idea
-*.iws
-*.iml
-*.ipr
-
-### NetBeans ###
+# NetBeans
 /nbproject/private/
 /nbbuild/
 /dist/
@@ -29,5 +26,31 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 
-### VS Code ###
-.vscode/
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.iws
+*.iml
+*.ipr
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Frontend
+# Logs
+/frontend-vite/resuto-manager/logs
+/frontend-vite/resuto-manager/*.log
+/frontend-vite/resuto-manager/npm-debug.log*
+/frontend-vite/resuto-manager/yarn-debug.log*
+/frontend-vite/resuto-manager/yarn-error.log*
+/frontend-vite/resuto-manager/pnpm-debug.log*
+/frontend-vite/resuto-manager/lerna-debug.log*
+
+/frontend-vite/resuto-manager/node_modules
+/frontend-vite/resuto-manager/dist
+/frontend-vite/resuto-manager/dist-ssr
+/frontend-vite/resuto-manager/*.local
