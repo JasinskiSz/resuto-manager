@@ -2,10 +2,7 @@
 name: Epic
 about: A task large enough to be divided into smaller tasks. Usually labeled as a "enhancement". 
 ---
-
-# Epic Title
-
-Feature: Awesome Feature Title <!--- Issue title should mirror the Epic Title. -->
+<!--- Provide a clear, concise title in the Title field above. -->
 
 ## Description
 <!--- Describe the Epic in as much detail as possible. -->
