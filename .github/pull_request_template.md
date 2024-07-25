@@ -37,7 +37,6 @@ Otherwise, remove section. -->
 - [ ] I have linked the issues that this pull request resolves
 - [ ] I have chose only one option in "Type of Change" section
 - [ ] I have described the changes clearly and in enough detail
-- [ ] I have listed the changes made in bullet points
 - [ ] I have added the appropriate labels, projects and milestones to this pull request
 - [ ] My code follows the style guidelines of this project
 - [ ] I have performed a self-review of my own code
