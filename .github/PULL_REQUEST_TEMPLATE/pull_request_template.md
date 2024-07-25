@@ -1,35 +1,35 @@
 <!--- Provide a general summary of your changes in the Title above. -->
 
 ## Linked issues
-<!--- Link issues that this pull request resolves using the following syntax: -->
-<!--- Fixes #123 -->
-<!--- Resolves #123 -->
-<!--- See also #123 -->
-<!--- Multiple issues must be linked using bullet points. Can be nested. -->
+<!--- Link issues that this pull request resolves using the following syntax:
+
+Fixes #123
+Resolves #123
+See also #123
+
+Multiple issues must be linked using bullet points. Can be nested. -->
 
 ## Type of change
-<!-- Please try to limit your pull request to one type, submit multiple pull requests if needed. -->
-<!--- Choose one from the following and delete the rest: -->
-- Feature
-- Bugfix
-- Code style update (formatting, renaming)
-- Refactoring (no functional changes, no api changes)
-- Build related changes
-- Documentation content changes
-- Other (please describe):
+<!-- Please try to limit your pull request to one type, submit multiple pull requests if needed.
+Choose one from the following and delete the rest: -->
+Feature
+Bugfix
+Code style update (formatting, renaming)
+Refactoring (no functional changes, no api changes)
+Build related changes
+Documentation content changes
+Other (please describe):
 
 ## Description
-<!--- Describe your changes in detail and list changes made in bullet points -->
-
-Changes made:
-- 
+<!--- Describe your changes in detail.You can list changes made in bullet points -->
 
 ## Demo
-<!--- If appropriate, here's the place for screenshots or video(s). Otherwise, remove section. -->
+<!--- If appropriate, here's the place for screenshots or video(s).
+Otherwise, remove section. -->
 
 ## Further comments
-<!--- If this is a relatively large or complex change, kick off the discussion by explaining why you chose -->
-<!--- the solution you did and what alternatives have you considered, etc. Otherwise, remove section. -->
+<!--- If this is a relatively large or complex change, kick off the discussion by explaining why you chose the solution you did and what alternatives have you considered, etc.
+Otherwise, remove section. -->
 
 ## Checklist
 <!--- Please put `x` in all the boxes that apply: -->
@@ -46,3 +46,4 @@ Changes made:
 - [ ] New and existing unit tests pass locally with my changes
 - [ ] My changes generate no new warnings
 - [ ] Any dependent changes have been merged and published in downstream modules
+<!-- Remove points that are not applicable. -->
