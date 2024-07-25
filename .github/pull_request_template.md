@@ -21,7 +21,7 @@ Documentation content changes
 Other (please describe):
 
 ## Description
-<!--- Describe your changes in detail.You can list changes made in bullet points -->
+<!--- Describe your changes in detail. You can list changes made in bullet points -->
 
 ## Demo
 <!--- If appropriate, here's the place for screenshots or video(s).
