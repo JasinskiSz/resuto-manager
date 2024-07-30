@@ -1,56 +1,56 @@
-HELP.md
+**/HELP.md
 target/
 
 # Exclusions
-!.mvn/wrapper/maven-wrapper.jar
+!**/.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
-!/frontend-vite/resuto-manager/public/
+!**/src/test/**/build/
+!**/src/main/**/build/
+!/client/vite-react/public/
+!**/.vscode/extensions.json
 
 # STS
-.apt_generated
-.classpath
-.factorypath
-.project
-.settings
-.springBeans
-.sts4-cache
+**/.apt_generated
+**/.classpath
+**/.factorypath
+**/.project
+**/.settings
+**/.springBeans
+**/.sts4-cache
 
 # NetBeans
-/nbproject/private/
-/nbbuild/
-/dist/
-/nbdist/
-/.nb-gradle/
-build/
-!**/src/main/**/build/
-!**/src/test/**/build/
+**/nbproject/private/
+**/nbbuild/
+**/dist/
+**/nbdist/
+**/.nb-gradle/
+**/build/
 
 # Editor directories and files
-.vscode/*
-!.vscode/extensions.json
-.idea
-*.iws
-*.iml
-*.ipr
-.DS_Store
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
+**/.vscode/*
+**/.idea
+**/*.iws
+**/*.iml
+**/*.ipr
+**/.DS_Store
+**/*.suo
+**/*.ntvs*
+**/*.njsproj
+/service/spring-boot/*.sln
+/service/spring-boot/*.sw?
 
-# Frontend
 # Logs
-/frontend-vite/resuto-manager/logs
-/frontend-vite/resuto-manager/*.log
-/frontend-vite/resuto-manager/npm-debug.log*
-/frontend-vite/resuto-manager/yarn-debug.log*
-/frontend-vite/resuto-manager/yarn-error.log*
-/frontend-vite/resuto-manager/pnpm-debug.log*
-/frontend-vite/resuto-manager/lerna-debug.log*
+/client/vite-react/logs
+/client/vite-react/*.log
+/client/vite-react/npm-debug.log*
+/client/vite-react/yarn-debug.log*
+/client/vite-react/yarn-error.log*
+/client/vite-react/pnpm-debug.log*
+/client/vite-react/lerna-debug.log*
 
-/frontend-vite/resuto-manager/node_modules
-/frontend-vite/resuto-manager/dist
-/frontend-vite/resuto-manager/dist-ssr
-/frontend-vite/resuto-manager/*.local
+# Vite-react specific
+/client/vite-react/node_modules
+/client/vite-react/dist
+/client/vite-react/dist-ssr
+/client/vite-react/*.local
