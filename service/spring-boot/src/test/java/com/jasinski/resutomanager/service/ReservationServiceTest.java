@@ -32,7 +32,7 @@ class ReservationServiceTest {
     }
 
     @Test
-    void shouldReturnAvailableTables_whenRequestedWithNumberOfSeats() {
+    void shouldReturnAvailableTables_whenRequestHasNumberOfSeats() {
         // given
         // when
         // then
